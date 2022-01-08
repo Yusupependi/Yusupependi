@@ -1,0 +1,19 @@
+.navbar {
+  box-shadow: 0 0 2px white;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #fbfb57;
+}
+
+#projects {
+  background-color: #fbfb57;
+}
+#ig {
+  text-decoration: none;
+}
+
+section {
+  padding-top: 4.5rem;
+}
